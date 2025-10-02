@@ -2,14 +2,14 @@
 
 A comprehensive data visualization project analyzing Amazon product sales, designed to provide actionable insights for stakeholders and business teams.  
 
-**Explore Full Project:** [Amazon Sales Dashboard]([https://github.com/lubhanigola/Power-BI-Projects/blob/main/Amazon_Sales_Dashboard/Amazon%20Sales%20Dashboard.pbix])  
+**Explore Full Project:** [Amazon Sales Dashboard](https://github.com/lubhanigola/Power-BI-Projects/raw/main/Amazon_Sales_Dashboard/Amazon%20Sales%20Dashboard.pbix)  
 
 ---
 
 ## 1) Screenshots (Preview)
 
 - **Dashboard Overview**  
-![Dashboard Screenshot]([https://github.com/lubhanigola/Power-BI-Projects/blob/main/Amazon_Sales_Dashboard/Sales%20Analysis%20Dashboard.png])  
+![Dashboard Screenshot](https://github.com/lubhanigola/Power-BI-Projects/raw/main/Amazon_Sales_Dashboard/Sales%20Analysis%20Dashboard.png)  
 
 ---
 
